@@ -1,0 +1,52 @@
+body {
+	background-color: teal;
+}
+
+p{
+	font-size: 14px;
+	font-family: Courier;
+}
+
+h4 {
+	font-size: 20px;
+	font-family: Courier;
+	background-color: pink;
+}
+
+h5 {
+	font-size: 14px;
+	font-family: Courier;
+	background-color: pink;
+}
+
+h6 {
+	font-size: 20px;
+	font-family: Courier;
+}
+
+h7 { 
+	font-size: 40px;
+	font-family: Courier;
+}
+
+.card-title{
+	padding-top: 10px;
+}
+
+.description {
+  background-image: url("../img/background.jpg");
+  background-repeat: repeat-x;
+}
+
+.card {
+  border-color:teal;
+  border-width: 4px;
+}
+
+.navbar {
+	background-color: pink;
+}
+
+.progress-warning {
+	color: pink;
+}
